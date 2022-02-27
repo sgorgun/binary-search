@@ -7,7 +7,7 @@
         <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
         <CodeAnalysisRuleSet>..\code-analysis.ruleset</CodeAnalysisRuleSet>
         <GenerateDocumentationFile>false</GenerateDocumentationFile>
-        <NoWarn>CA1707,S1066,SA1407,SA1600,SA1117,SA1100,SA1116,SA1028,SA1502,SA1128</NoWarn>
+        <NoWarn>CA1707,S1066,SA1407,SA1600,SA1117,SA1100,SA1116,SA1028,SA1502,SA1128,S2699</NoWarn>
     </PropertyGroup>
     <ItemGroup>
         <AdditionalFiles Include="..\code-analysis.ruleset" Link="Properties\code-analisys.ruleset" />
